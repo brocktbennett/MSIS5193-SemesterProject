@@ -7,7 +7,7 @@
 # - Reina Han
 
 # Pseudo-code for Project
-# Changes made
+
 # 1. Import Libraries
 # --------------------------------------
 # import necessary libraries such as NumPy, pandas, matplotlib, etc.
